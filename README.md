@@ -2,7 +2,8 @@
 
 - mkdir django-project
 - cd django-project
-- django-admin startproject django_swagger
+- django-admin startproject django_swagger (mysite)
+- django-admin startapp app
 
 # installation guide
 
